@@ -1,3 +1,3 @@
-<!-- # geng-haoran.github.io -->
+<!-- # ziqixu22.github.io -->
 
-I am a junior student in Turing class, Peking University.
+I am a junior student in University of Illinois Urbana-Champaign.
